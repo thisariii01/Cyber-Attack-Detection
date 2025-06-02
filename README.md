@@ -59,7 +59,7 @@ sim_flagged_source(user_id, user_ip)
 ```
 ## Sample Log Output
 
-```python
+```pgsql
 Too many failed login attempts for malicious
 Device toggled too frequently by spammer
 Power spike (2500) exceeds 150% of avg (1187.50)
